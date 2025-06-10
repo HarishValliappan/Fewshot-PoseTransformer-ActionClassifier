@@ -32,7 +32,7 @@ Each folder contains 5 short video clips. Keypoints are extracted frame-by-frame
 
 ### 📈 Flowchart
 
-![Workflow](path_to_your_workflow_image.png)
+![Workflow](work_flow.png)
 
 ---
 
